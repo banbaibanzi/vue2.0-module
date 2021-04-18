@@ -1,4 +1,9 @@
-# account-module
+# vue2.0-module
+
+## 项目模块化
+```
+项目模块化
+```
 
 ## Project setup
 ```
